@@ -64,5 +64,5 @@ SOFTWARE.
 ```
 
 hi guys yes this is a fork of the latte softworks roblox downgrader i guess
-yes i dont know how to import the .github thingy cuz im too dumb to do it lol
+yes i dont know how to import the .github FUNDING.yml thingy cuz im too lazy to do it lol
 anyways bye
